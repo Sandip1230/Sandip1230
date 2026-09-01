@@ -31,11 +31,3 @@ Currently engineering **Forma AI** and continuously expanding my stack. Previous
 
 ### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-
----
-
-### ✍️ Random Dev Quote:
-[![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&font=syne)](https://github.com/piyushsuthar/github-readme-quotes)
