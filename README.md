@@ -24,16 +24,15 @@ Currently engineering **Forma AI** and continuously expanding my stack. Previous
 
 ---
 
-### 📊 GitHub Stats:
-<!-- Note: Replace YOUR_GITHUB_USERNAME below -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
 ### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
 
 ---
 
