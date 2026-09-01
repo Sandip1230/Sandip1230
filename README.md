@@ -37,10 +37,5 @@ Currently engineering **Forma AI** and continuously expanding my stack. Previous
 
 ---
 
-### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
 ### ✍️ Random Dev Quote:
 [![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&font=syne)](https://github.com/piyushsuthar/github-readme-quotes)
