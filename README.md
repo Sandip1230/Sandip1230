@@ -24,7 +24,8 @@ Currently engineering **Forma AI** and continuously expanding my stack. Previous
 
 ---
 
-
+### ✍️ Random Dev Quote:
+[![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
