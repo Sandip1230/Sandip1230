@@ -23,6 +23,3 @@ Currently engineering **Forma AI** and continuously expanding my stack. Previous
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
-
-### 🔥 Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
