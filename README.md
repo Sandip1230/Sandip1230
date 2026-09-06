@@ -71,10 +71,3 @@ I am a passionate developer who loves bringing complex ideas to life through cle
 * **Certifications:** Completed NPTEL Certification for Programming in Java.
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
