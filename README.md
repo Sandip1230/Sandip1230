@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Sandip Maitra</h1>
   <h3>Full-Stack Web Developer | Computer Science & Engineering Student</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=475&lines=Building+interactive+web+applications;Engineering+innovative+solutions;Always+learning+and+expanding+my+stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0bda12&center=true&vCenter=true&width=475&lines=Building+interactive+web+applications;Engineering+innovative+solutions;Always+learning+and+expanding+my+stack" alt="Typing SVG" />
 </div>
 
 ---
