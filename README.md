@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Sandip Maitra</h1>
   <p><h3>Full-Stack Web Developer & Computer Science Student</h3></p>
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+enthusiast+and+problem+solver;Always+learning+and+expanding+my+stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8,EC4899,10B981,F59E0B,A855F7&center=true&vCenter=true&width=520&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+enthusiast+and+problem+solver;Always+learning+and+expanding+my+stack" alt="Typing SVG" />
   
   <p>
     <a href="mailto:maitrasandip99@gmail.com">
