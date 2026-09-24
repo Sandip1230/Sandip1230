@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sandip Maitra</h1>
-  <p><h3>Full-Stack Web Developer & Computer Science Student</h3></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanchayan%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Tools%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58" width="100%" />
+
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+enthusiast+and+problem+solver;Always+learning+and+expanding+my+stack" alt="Typing SVG" />
   
