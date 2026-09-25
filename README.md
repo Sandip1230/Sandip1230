@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/sandip-maitra-20016137a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
+        <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=Profile%20Views&color=1c18dd&style=for-the-badge" />
       </p>
     </a>
   </p>
