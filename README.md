@@ -11,6 +11,9 @@
     </a>
     <a href="https://www.linkedin.com/in/sandip-maitra-20016137a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+      </p>
     </a>
   </p>
 </div>
@@ -30,43 +33,9 @@ I am a passionate developer who loves bringing complex ideas to life through cle
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="left"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Backend & DB</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Tools & Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,vite,nodejs,express,mongodb,git,vscode,html,css&theme=dark" />
+</div>
 ---
 
 ### 🚀 Featured Projects
@@ -84,4 +53,11 @@ I am a passionate developer who loves bringing complex ideas to life through cle
 * **Quantumard National Hackathon:** Led team *PENTABOTs* through the Phase 2 Build Round.
 * **Certifications:** Completed NPTEL Certification for Programming in Java.
 
+## GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandip1230&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandip1230&theme=tokyonight" />
+  <br/>
+</div>
 ---
