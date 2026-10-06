@@ -29,6 +29,7 @@ I am a passionate developer who loves bringing complex ideas to life through cle
 * 💼 Previously gained industry experience driving projects at **Axlero Solutions**.
 * 🤝 Looking to collaborate on open-source projects and innovative hackathon builds.
 
+
 ---
 
 ### 🛠️ Tech Stack & Tools
