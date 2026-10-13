@@ -50,7 +50,9 @@ I am a passionate developer who loves bringing complex ideas to life through cle
 ### 🏆 Hackathons & Achievements
 
 * **Bharatiya Antariksh Hackathon:** Competed and submitted innovative AI/satellite solutions.
+  
 * **Quantumard National Hackathon:** Led team *PENTABOTs* through the Phase 2 Build Round.
+  
 * **Certifications:** Completed NPTEL Certification for Programming in Java.
 
 ## GitHub Stats
