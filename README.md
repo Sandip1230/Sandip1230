@@ -10,13 +10,13 @@
   </samp>
 </h3>
 
-<br>
-
 <p align="center">
 <samp>
 「 Full-Stack Architect & Embedded Systems Developer building real-time collaboration platforms, dynamic AI engines, and interactive web software 」
 </samp>
 </p>
+
+[![divider_cyber_cycle](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Sandip1230)
 
 <p align="center">
   <a href="https://github.com/Sandip1230">
@@ -35,7 +35,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+lead+%26+patent-holding+builder;Overclocked+and+always+shipping+clean+code" alt="Typing SVG" />
 </p>
 
-[![divider_cyber_cycle](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Sandip1230)
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
 
 <!-- Mission & System Core -->
 <table align="center" width="100%" border="0" cellspacing="10" cellpadding="0">
@@ -152,7 +152,7 @@
 </tr>
 </table>
 
-[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
+[![divider_cyber_cycle_mirrored](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Sandip1230)
 
 ### 📊 Vital Statistics & System Telemetry
 
@@ -160,11 +160,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip1230&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
+
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandip1230&theme=radical" alt="Profile Stats" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandip1230&theme=radical" alt="Most Commit Language" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square" alt="Profile Views" />
+</p>
+
+[![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Sandip1230)
 
 <!-- 100% Width Total Activity Commit Chart -->
 <p align="center">
@@ -242,7 +249,7 @@ I am actively open to partnering on:
 </tr>
 </table>
 
-[![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Sandip1230)
+[![divider_cyber_cycle](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Sandip1230)
 
 <p align="center">
 ⚡ <i>Building clean, real-time collaboration engines, dynamic web systems, and hardware prototypes.</i>
@@ -250,6 +257,8 @@ I am actively open to partnering on:
 <p align="center">
 ⭐ <i>Feel free to star any repositories if you find them interesting!</i>
 </p>
+
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Profile footer wave"/>
