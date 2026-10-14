@@ -6,7 +6,7 @@
 <h3 align="center">
   <samp>
     &gt; Hello World, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/sandip-maitra-20016137a">Sandip Maitra</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/sandip-maitra-20016137a">Sandip</a></b>
   </samp>
 </h3>
 
@@ -165,14 +165,6 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandip1230&theme=radical" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandip1230&theme=radical" alt="Productive Time" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandip1230&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square" alt="Profile Views" />
-</p>
 
 <!-- 100% Width Total Activity Commit Chart -->
 <p align="center">
