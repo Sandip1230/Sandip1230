@@ -63,6 +63,7 @@ I am a passionate developer who loves bringing complex ideas to life through cle
   <br/>
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandip1230&theme=tokyonight" />
   <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandip1230&theme=tokyonight&hide_border=true&area=false" />
+  <!-- 100% Width Clean Line Graph with Tokyonight Styling -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandip1230&theme=tokyonight&hide_border=true&area=false&line=00F5D4&point=00F5D4" />
 </div>
 ---
