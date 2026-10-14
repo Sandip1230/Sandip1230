@@ -167,8 +167,9 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandip1230&theme=radical" alt="Most Commit Language" />
 </p>
 
+<!-- Live Profile Counter Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?page.id=Sandip1230.Sandip1230&label=PROFILE%20VIEWS&labelColor=111827&countColor=00F5D4&style=flat-square" alt="Profile Views" />
 </p>
 
 [![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Sandip1230)
