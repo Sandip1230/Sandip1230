@@ -174,9 +174,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sandip1230&label=PROFILE%20VIEWS&color=00F5D4&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- 100% Width Clean Activity Line Graph -->
+<!-- 100% Width Total Activity Commit Chart -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandip1230&theme=radical&hide_border=true&area=false&line=00F5D4&point=38BDF8" alt="Activity Line Graph" />
+  <img width="100%" alt="Total Activity Chart" src="https://shieldcn.dev/chart/github/commits/Sandip1230.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
 </p>
 
 [![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Sandip1230)
