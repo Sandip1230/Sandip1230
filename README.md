@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,100:111827&height=800&section=header&text=Sandip%20Maitra&fontSize=50&fontColor=ffffff&descColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Real-Time%20Systems&descSize=18&descAlignY=62" alt="Sandip Maitra profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,100:111827&height=200&section=header&text=Sandip%20Maitra&fontSize=50&fontColor=ffffff&descColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Real-Time%20Systems&descSize=18&descAlignY=62" alt="Sandip Maitra profile header" />
 </p>
 
 <!-- Title -->
