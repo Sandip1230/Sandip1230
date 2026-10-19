@@ -154,12 +154,6 @@
 
 [![divider_cyber_cycle_mirrored](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Sandip1230)
 
-### 📊 Vital Statistics & System Telemetry
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip1230&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
 [![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
 
 <p align="center">
