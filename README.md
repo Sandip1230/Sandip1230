@@ -67,7 +67,6 @@
 
 <h3>🛠️ Core Tech Stack</h3>
 <br>
-
 <table align="center" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" alt="JavaScript"/><br><sub>JS</sub></td>
@@ -91,7 +90,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="34" alt="CSS3"/><br><sub>CSS3</sub></td>
   </tr>
 </table>
-
 </td>
 
 <!-- MIDDLE: FEATURED PROJECTS -->
