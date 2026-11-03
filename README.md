@@ -186,6 +186,7 @@ I am actively open to partnering on:
 
 </td>
 
+
 <!-- MIDDLE: BADGES & ACHIEVEMENTS -->
 <td width="34%" align="center" valign="top">
 
@@ -246,7 +247,6 @@ I am actively open to partnering on:
 </p>
 
 [![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Profile footer wave"/>
