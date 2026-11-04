@@ -55,6 +55,7 @@
 </tr>
 </table>
 
+
 [![divider_data_capsule](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Sandip1230)
 
 # 🛠️ Technologies, Projects, and Domains
