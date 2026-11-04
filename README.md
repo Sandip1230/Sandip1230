@@ -147,7 +147,6 @@
 
 </td>
 
-
 </tr>
 </table>
 
@@ -185,7 +184,6 @@ I am actively open to partnering on:
 </ul>
 
 </td>
-
 
 <!-- MIDDLE: BADGES & ACHIEVEMENTS -->
 <td width="34%" align="center" valign="top">
