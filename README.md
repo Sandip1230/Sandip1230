@@ -6,7 +6,7 @@
 <!-- Title -->
 <h3 align="center">
   <samp>
-    &gt; Hello World, I am
+    &gt; Hello_World, I am
     <b><a target="_blank" href="https://www.linkedin.com/in/sandip-maitra-20016137a">Sandip</a></b>
   </samp>
 </h3>
