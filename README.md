@@ -231,9 +231,7 @@ I am actively open to partnering on:
 <a href="https://github.com/Sandip1230">
   <img src="https://img.shields.io/badge/GitHub-Sandip1230-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
-
 </td>
-
 </tr>
 </table>
 
