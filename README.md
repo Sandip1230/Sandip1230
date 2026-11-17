@@ -232,6 +232,7 @@ I am actively open to partnering on:
   <img src="https://img.shields.io/badge/GitHub-Sandip1230-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 </td>
+
 </tr>
 </table>
 
@@ -245,6 +246,7 @@ I am actively open to partnering on:
 </p>
 
 [![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Profile footer wave"/>
