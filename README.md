@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,100:111827&height=200&section=header&text=Sandip%20Maitra&fontSize=50&fontColor=ffffff&descColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Real-Time%20Systems&descSize=18&descAlignY=62" alt="Sandip Maitra profile header" />
 </p>
 
-
 <!-- Title -->
 <h3 align="center">
   <samp>
@@ -31,6 +30,7 @@
   </a>
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-22c55e?style=flat-square" alt="Status Badge" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+lead+%26+patent-holding+builder;Overclocked+and+always+shipping+clean+code" alt="Typing SVG" />
