@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-22c55e?style=flat-square" alt="Status Badge" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+lead+%26+patent-holding+builder;Overclocked+and+always+shipping+clean+code" alt="Typing SVG" />
 </p>
