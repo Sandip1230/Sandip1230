@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d1d5db,100:111827&height=200&section=header&text=Sandip%20Maitra&fontSize=50&fontColor=ffffff&descColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Real-Time%20Systems&descSize=18&descAlignY=62" alt="Sandip Maitra profile header" />
 </p>
 
-
 <!-- Title -->
 <h3 align="center">
   <samp>
@@ -123,7 +122,6 @@
 </ul>
 
 </td>
-
 <!-- RIGHT: DOMAINS & EMBEDDED -->
 <td width="28%" valign="top">
 
@@ -146,7 +144,6 @@
     Multiplayer typing combat mechanics (Rampage United), audio synthesis, and rich visual states.
   </li>
 </ul>
-
 </td>
 
 </tr>
