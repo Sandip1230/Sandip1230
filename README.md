@@ -35,7 +35,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+interactive+web+applications;Passionate+Full-Stack+Developer;Crafting+real-time+collaboration+tools;Hackathon+lead+%26+patent-holding+builder;Overclocked+and+always+shipping+clean+code" alt="Typing SVG" />
 </p>
 
-
 [![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Sandip1230)
 
 <!-- Mission & System Core -->
@@ -144,7 +143,6 @@
   </li>
 </ul>
 </td>
-
 </tr>
 </table>
 
